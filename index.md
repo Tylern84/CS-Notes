@@ -1,4 +1,4 @@
-# Header 1
+# CS Code Arrays
 Class session 3
 ## Header 2
 ### Header 3
